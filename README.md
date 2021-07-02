@@ -1,6 +1,6 @@
 ### Henlo 🐣
 
 - 🍵 AMAB, any pronouns
-- 🧠 I’m currently learning: Python, Java, Rust and TypeScript
-- ✍️ How to reach me: fittscoo[at]gmail.com
+- 🧠 Focused on learning: Python and TypeScript, with React.js
+- ✍️ How to reach me: bmb5957[at]rit.edu
 - 🖤 BLM
