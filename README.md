@@ -1,6 +1,7 @@
 ### Henlo 🐣
 
 - 🍵 AMAB, any pronouns, hard of hearing
-- ✍️ How to reach me: bmb5957[at]rit.edu
+- 🧠 Currently learning: Go and Linux
+- ✍️ How to reach me: fittsqo[at]gmail[dot]com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fittsqo&theme=dracula)
