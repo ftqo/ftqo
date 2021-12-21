@@ -1,6 +1,7 @@
 ### Henlo 🐣
 
-- 🍵 AMAB, any pronouns, hard of hearing
+- 🏫 Software Engineering student
+- 🍵 AMAB, any pronouns
 - 🧠 Currently learning: Go and Linux
 - ✍️ How to reach me: fittsqo[at]gmail[dot]com
 
