@@ -1,6 +1,6 @@
 ### Henlo 🐣
 
-- 🏫 Software Engineering student
+- 🏫 Software engineering student
 - 🍵 AMAB, any pronouns
 - 🧠 Currently learning: Go and Linux
 - ✍️ [Contact me](https://keybase.io/fittsqo)
