@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: [any normative-ish](https://en.pronouns.page/any:normative-ish)
 - ⚡ Fun fact: I'm also a swimmer and writer
-- 📫 How to reach me: [email](mailto:fittsqo@gmail.com),  [keybase](https://keybase.io/ftqo)
+- 📫 How to reach me: [email](mailto:brian@ftqo.dev	),  [keybase](https://keybase.io/ftqo)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftqo&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ftqo&theme=github_dark)
