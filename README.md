@@ -5,6 +5,7 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: [any normative-ish](https://en.pronouns.page/any:normative-ish)
 - ⚡ Fun fact: I'm also a swimmer and writer
+- 🐈 Profile pic: [marinaacornz](https://www.instagram.com/marinaacornz/)
 - 📫 How to reach me: [email](mailto:me@ftqo.dev), [keybase](https://keybase.io/ftqo)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftqo&theme=github_dark)
