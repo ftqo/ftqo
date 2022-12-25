@@ -1,7 +1,7 @@
 ## Henlo 🐣
 
-- 🔭 I'm currently working in DevOps
-- 🌱 I'm currently learning: Go, Linux, Docker, Kubernetes
+- 🔭 I'm currently studying for my degree
+- 💼 Formerly DevOps@IBM
 - 💬 Ask me about anything
 - 😄 Pronouns: [any normative-ish](https://en.pronouns.page/any:normative-ish)
 - ⚡ Fun fact: I'm also a swimmer and writer
